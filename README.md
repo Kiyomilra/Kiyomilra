@@ -157,7 +157,7 @@ Physics, Energy & Engineering
 
 <br/><br/>
 
-**"Turning ideas into code, and code into innovation."**
+**"There is nothing impossible to him who will try"**
 
 <br/>
 
