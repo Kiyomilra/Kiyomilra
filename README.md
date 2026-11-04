@@ -37,7 +37,7 @@ Currently focused on expanding my technical knowledge, building personal project
 
 <br/><br/>
 
-*"Learn. Build. Innovate."*
+*"Wong liyo ngerti opo*
 
 </div>
 
