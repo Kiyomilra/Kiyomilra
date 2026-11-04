@@ -17,41 +17,30 @@ Telkom University | Faculty of Informatics
 
 ---
 
+
 ## <img src="https://img.shields.io/badge/01-ABOUT_ME-B5121B?style=flat-square"/> About Me
 
-Hello! I'm **Kiyomilra**, a Software Engineering student at **Telkom University**.
+<div align="center">
 
-I'm passionate about technology, software development, and engineering. I enjoy exploring how software, hardware, and computational methods can work together to create innovative solutions.
+I'm **Kiyomilra**, a Software Engineering student at **Telkom University**.
 
-I'm continuously developing my skills through experimentation, personal projects, and learning new technologies.
+I'm passionate about technology, software development, and engineering.
+I enjoy exploring the intersection of software, hardware, and computational science to create innovative solutions.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Kiyomilra"
-        self.university = "Telkom University"
-        self.major = "Software Engineering"
+Currently focused on expanding my technical knowledge, building personal projects, and exploring new technologies.
 
-        self.interests = [
-            "Software Engineering",
-            "Artificial Intelligence",
-            "Computational Science",
-            "Robotics",
-            "Embedded Systems",
-            "Electrical Engineering"
-        ]
+<br/>
 
-        self.environment = [
-            "Arch Linux",
-            "VS Code",
-            "Git"
-        ]
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-B5121B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interest-Robotics-191919?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Goal-Continuous%20Learning-B5121B?style=for-the-badge"/>
 
-    def motto(self):
-        return "Learn. Build. Innovate."
-```
+<br/><br/>
 
----
+*"Learn. Build. Innovate."*
+
+</div>
+
 
 ## <img src="https://img.shields.io/badge/02-INTERESTS-B5121B?style=flat-square"/> Fields of Interest
 
