@@ -1,97 +1,150 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://64.media.tumblr.com/48056938a0ab0afd2d90b38de5dedc84/c6d28ea69f9f5dc1-89/s1280x1920/f946a116badc922a6a1cf43fcddb32768fc781b4.gifv" alt="Animated Banner" width="100%" />
-</p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Kiyomilara </span></h1>
-<h3 align="center">💻 Junior Programmer| 🤖 Robotics Enthusiast | 🧠 Machine Learning & AI Explorer</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:5C1015,100:B5121B&height=200&section=header&text=bfox8623&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=PHYSICS%20%7C%20COMPUTATIONAL%20SCIENCE%20%7C%20ROBOTICS&descSize=14&descAlignY=65"/>
 
-### 🧭 About Me
+### <span style="color:#FF3030">PHYSICS STUDENT · RESEARCHER · ENGINEER</span>
 
-<p align="center">
-  <em>
-    “Wong Liyo Ngerti Opo”
-  </em>
-</p>
+University of Jember | Faculty of Mathematics and Natural Sciences 🇮🇩
 
-✨ I'm a **curious mind** exploring the intersection of **software, robotics, and artificial intelligence**.  
-💡 I love building things that **move**, **learn**, and **adapt** — from smart robotic systems to AI-driven applications.  
-🚀 My journey started with simple Arduino projects and grew into a passion for **Machine Learning**, **Computer Vision**, and **Automation**.  
-🧠 I believe in the philosophy of **continuous learning** — improving a little every day through code, creativity, and collaboration.  
-🎯 My goal is to become a developer who **bridges hardware and intelligence** to shape the future of robotics and AI.
+<br/>
 
-🤖 I especially enjoy creating robotics projects and diving deep into how systems work through reverse engineering.
+<img src="https://komarev.com/ghpvc/?username=bfox8623&style=for-the-badge&color=B5121B&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/OpenMC-0.15.3-191919?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-IoT-B5121B?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
 
-⚡ My passion also extends to electrical and electronics engineering, designing circuits and integrating hardware with software.
+</div>
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kiyomilra&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
-</p>
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-B5121B?style=flat-square"/> About Me
+
+Physics student at **University of Jember** with a strong interest in computational physics, nuclear science, scientific computing, and robotics.
+
+I enjoy combining theoretical physics with computational methods and engineering applications to explore and develop innovative solutions.
+
+```python
+class Researcher:
+    name = "bfox8623"
+    university = "University of Jember"
+    major = "Physics"
+
+    interests = [
+        "Nuclear Physics",
+        "Computational Physics",
+        "Scientific Computing",
+        "Robotics",
+        "Embedded Systems"
+    ]
+
+    motto = "Explore. Calculate. Innovate."
+```
 
 ---
 
-## 💻 Programming Stack
+## <img src="https://img.shields.io/badge/02-ACHIEVEMENTS-B5121B?style=flat-square"/> Achievements
 
-#### 🧩 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,flutter,c,asm" />
-</p>
+<table width="100%">
+<tr>
+<td align="center" width="50%">
 
-#### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker,aws,mysql,sqlite,ghidra,idapro,radare2" />
-</p>
+### 🥇 AISEEF 2026
+**Gold Medalist**
 
----
+Physics, Energy & Engineering
 
-## 🤖 Robotics, AI, Electrical & Automation Stack
+</td>
+<td align="center" width="50%">
 
-#### ⚙️ Robotics Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,opencv" />
-</p>
+### ⚛️ Nuclear Physics Club
+**Chairman**
 
-#### 🧠 AI, ML & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib,,proteus,fritzing,eagle" />
-</p>
+University of Jember
 
----
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiyomilra&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiyomilra&theme=tokyonight&hide_border=true" height="165" />
-</p>
+### 🚀 Kibo-RPC 7th
+**Team Leader of Jatra**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyomilra&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+JAXA Programming Challenge
 
----
+</td>
+<td align="center" width="50%">
 
-### ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiyomilra&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=FFFFFF&hide_border=true" />
-</p>
+### 🤖 REIVER Team
+**Team Leader**
+
+Robotics R&D · UNEJ
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:kiyomilara18@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://github.com/Kiyomilra" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-</p>
+## <img src="https://img.shields.io/badge/03-TECH_STACK-B5121B?style=flat-square"/> Technologies & Tools
+
+<div align="center">
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,matlab"/>
+
+**Engineering & Embedded Systems**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github"/>
+
+**Environment & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&background=0A192F&center=true&vCenter=true&width=550&lines=Building+Robots+with+Intelligence...;Exploring+AI+and+Automation;Coding+the+Future+One+Step+at+a+Time;Learning%2C+Creating%2C+and+Innovating+Every+Day;Be+Greater+Than+Average" alt="Typing SVG with Background" />
-</p>
+## <img src="https://img.shields.io/badge/04-GITHUB_STATS-B5121B?style=flat-square"/> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bfox8623&show_icons=true&theme=dark&bg_color=0D0D0F&title_color=FF3030&icon_color=B5121B&text_color=FFFFFF&border_color=5C1015"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfox8623&layout=compact&theme=dark&bg_color=0D0D0F&title_color=FF3030&text_color=FFFFFF&border_color=5C1015"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bfox8623&theme=dark&background=0D0D0F&ring=FF3030&fire=B5121B&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=999999&border=5C1015"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/05-CONTRIBUTIONS-B5121B?style=flat-square"/> Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bfox8623&bg_color=0D0D0F&color=FF3030&line=B5121B&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### <span style="color:#FF3030">CONNECT WITH ME</span>
+
+<a href="https://github.com/bfox8623">
+<img src="https://img.shields.io/badge/GitHub-bfox8623-B5121B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Understanding the universe through physics, shaping the future through engineering."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:5C1015,100:B5121B&height=120&section=footer"/>
+
+</div>
 
