@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:5C1015,100:B5121B&height=200&section=header&text=Kiyomilra&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20ENGINEERING%20%7C%20IROBOTICS&descSize=14&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:5C1015,100:B5121B&height=200&section=header&text=Kiyomilra&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20ENGINEERING%20%7C%20ROBOTICS&descSize=14&descAlignY=65"/>
 
 ### <span style="color:#FF3030">SOFTWARE ENGINEER · ROBOTIC ENTHUSIAST · PHYSICS</span>
 
