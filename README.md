@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:5C1015,100:B5121B&height=200&section=header&text=Kiyomilra&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=14&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:5C1015,100:B5121B&height=200&section=header&text=Kiyomilra&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20ENGINEERING%20%7C%20IROBOTICS&descSize=14&descAlignY=65"/>
 
-### <span style="color:#FF3030">SOFTWARE ENGINEER · TECH ENTHUSIAST · PROBLEM SOLVER</span>
+### <span style="color:#FF3030">SOFTWARE ENGINEER · ROBOTIC ENTHUSIAST · PHYSICS</span>
 
-Telkom University | Faculty of Informatics 🇮🇩
+Telkom University | Faculty of Informatics
 
 <br/>
 
@@ -96,7 +96,7 @@ ESP32, IoT & Hardware Integration
 
 <div align="center">
 
-### 🏅 AISEEF 2026
+### 🏅ACHIEVEMENTS & AWARDS
 
 **Competition in Progress**
 
